@@ -2,23 +2,22 @@
 
 `zmatrix` is a Zig implementation of a cmatrix-like terminal program.
 
----
-
-## Features
-
-`zmatrix` is currently in early development. This section will be updated as features are added.
+<img src=".github/zmatrix.png" alt="zmatrix">
 
 ---
 
 ## Installation
 
-`zmatrix` is currently in early development. This section will be updated as features are added.
+`zmatrix` can be cloned from the repository and built using Zig.
 
----
+```bash
+# Clone the repository
+git clone https://github.com/chriso345/zmatrix.git
 
-## Usage
-
-`zmatrix` is currently in early development. This section will be updated as features are added.
+# Build the project
+cd zmatrix
+zig build
+```
 
 ---
 
